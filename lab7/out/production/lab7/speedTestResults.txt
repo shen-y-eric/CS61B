@@ -1,0 +1,1 @@
+When inserting 100,000 strings in the

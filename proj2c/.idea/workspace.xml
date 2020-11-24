@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45bb87e7-b233-4408-82e2-f56f8b14f23e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../library-fa20" beforeDir="false" afterPath="$PROJECT_DIR$/../library-fa20" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jtNe0MAgUNHPaYrjt2k1SceXQZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.DemoRunSeveralPuzzles">
+    <configuration name="DemoAlternateExampleSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.lectureexample.DemoAlternateExampleSolution" />
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.lectureexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoIntegerHopPuzzleSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.integerhoppuzzle.DemoIntegerHopPuzzleSolution" />
+      <module name="proj2c" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.integerhoppuzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoRunSeveralPuzzles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.slidingpuzzle.DemoRunSeveralPuzzles" />
+      <module name="proj2c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bearmaps/proj2c/input" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.slidingpuzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoSlidingPuzzleSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.slidingpuzzle.DemoSlidingPuzzleSolution" />
+      <module name="proj2c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bearmaps/proj2c/input" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.slidingpuzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoWordPuzzleSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.wordladderpuzzle.DemoWordPuzzleSolution" />
+      <module name="proj2c" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bearmaps/proj2c/input" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.proj2c.wordladderpuzzle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoAlternateExampleSolution" />
+      <item itemvalue="Application.DemoIntegerHopPuzzleSolution" />
+      <item itemvalue="Application.DemoRunSeveralPuzzles" />
+      <item itemvalue="Application.DemoSlidingPuzzleSolution" />
+      <item itemvalue="Application.DemoWordPuzzleSolution" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoRunSeveralPuzzles" />
+        <item itemvalue="Application.DemoSlidingPuzzleSolution" />
+        <item itemvalue="Application.DemoAlternateExampleSolution" />
+        <item itemvalue="Application.DemoWordPuzzleSolution" />
+        <item itemvalue="Application.DemoIntegerHopPuzzleSolution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45bb87e7-b233-4408-82e2-f56f8b14f23e" name="Default Changelist" comment="" />
+      <created>1604619519273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604619519273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604732159753">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1604732159753" />
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1604619715761">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1604619715761" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1604893687122">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604734855364" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1604893687122" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1604893687121">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604734855363" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1604893687121" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1604893687120">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604734855363" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1604893687120" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1604893687122">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604734855363" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1604893687122" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1604621384233">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1604621384233" />
+  </component>
+</project>

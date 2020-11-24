@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e24dc391-6282-47d0-aa0b-ba693f74826a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OffByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOffByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestOffByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestPalindrome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hcmeldTtNrt3KBhkHi0oqwFIlu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestPalindrome">
+    <configuration name="TestPalindrome" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOffByOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestOffByOne" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="proj1b" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPalindrome" />
+        <item itemvalue="JUnit.TestPalindrome" />
+        <item itemvalue="JUnit.TestOffByOne" />
+        <item itemvalue="JUnit.TestPalindrome" />
+        <item itemvalue="Android JUnit.TestPalindrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e24dc391-6282-47d0-aa0b-ba693f74826a" name="Default Changelist" comment="" />
+      <created>1600318851886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600318851886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600318971832">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1600318971832" />
+    <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1600320702051">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="533" y="150" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828@0.23.1440.828" timestamp="1600320702051" />
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom" timestamp="1600411134052">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1600411134052" />
+    <state width="1358" height="200" key="GridCell.Tab.0.center" timestamp="1600411134051">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1600411134051" />
+    <state width="1358" height="200" key="GridCell.Tab.0.left" timestamp="1600411134051">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1600411134051" />
+    <state width="1358" height="200" key="GridCell.Tab.0.right" timestamp="1600411134051">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1600411134051" />
+    <state x="208" y="23" width="1024" height="828" key="SettingsEditor" timestamp="1600411241048">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="208" y="23" width="1024" height="828" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1600411241048" />
+  </component>
+</project>

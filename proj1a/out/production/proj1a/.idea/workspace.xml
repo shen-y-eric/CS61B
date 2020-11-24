@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4efa9fc0-111d-4c71-9431-497e3b0f477e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedListDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedListDeque.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hTJPNnvBSxha2fOLJdCma1meTu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LinkedListDequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListDequeTest" />
+      <module name="proj1a" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <useClassPathOnly />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-XX:+ShowCodeDetailsInExceptionMessages" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedListDequeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4efa9fc0-111d-4c71-9431-497e3b0f477e" name="Default Changelist" comment="" />
+      <created>1600029123535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600029123535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom" timestamp="1600140995617">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1600119808718" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1600140995617" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center" timestamp="1600140995616">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1600119808718" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1600140995616" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left" timestamp="1600140995615">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1600119808717" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1600140995615" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right" timestamp="1600140995616">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1600119808718" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1600140995616" />
+    <state x="208" y="23" width="1024" height="828" key="SettingsEditor" timestamp="1600119923160">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="208" y="23" width="1024" height="828" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1600119923160" />
+    <state x="385" y="175" width="670" height="676" key="search.everywhere.popup" timestamp="1600056729272">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="385" y="175" width="670" height="676" key="search.everywhere.popup/0.23.1440.828@0.23.1440.828" timestamp="1600056729272" />
+  </component>
+</project>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b80238be-b113-4b24-b7e3-4b69910f45a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hOAutNpCWqbZ064MwIqVj8Yfv4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.BuggyIntDListTest">
+    <configuration name="BuggyIntDListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BuggyIntDListTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArithmeticTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuggyIntDListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BuggyIntDListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BuggyIntDListTest" />
+        <item itemvalue="Application.BuggyIntDListTest" />
+        <item itemvalue="JUnit.ArithmeticTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b80238be-b113-4b24-b7e3-4b69910f45a5" name="Default Changelist" comment="" />
+      <created>1599871990508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599871990508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599873203315">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1599873203315" />
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom" timestamp="1599884943146">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1599884943146" />
+    <state width="1358" height="250" key="GridCell.Tab.0.center" timestamp="1599884943146">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1599884943146" />
+    <state width="1358" height="250" key="GridCell.Tab.0.left" timestamp="1599884943146">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1599884943146" />
+    <state width="1358" height="250" key="GridCell.Tab.0.right" timestamp="1599884943146">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1599884943146" />
+    <state width="1358" height="250" key="GridCell.Tab.1.bottom" timestamp="1599884943147">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1599884943147" />
+    <state width="1358" height="250" key="GridCell.Tab.1.center" timestamp="1599884943147">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1599884943147" />
+    <state width="1358" height="250" key="GridCell.Tab.1.left" timestamp="1599884943146">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1599884943146" />
+    <state width="1358" height="250" key="GridCell.Tab.1.right" timestamp="1599884943147">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1599884943147" />
+    <state width="1358" height="250" key="GridCell.Tab.2.bottom" timestamp="1599884943148">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.2.bottom/0.23.1440.829@0.23.1440.829" timestamp="1599884943148" />
+    <state width="1358" height="250" key="GridCell.Tab.2.center" timestamp="1599884943147">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.2.center/0.23.1440.829@0.23.1440.829" timestamp="1599884943147" />
+    <state width="1358" height="250" key="GridCell.Tab.2.left" timestamp="1599884943147">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.2.left/0.23.1440.829@0.23.1440.829" timestamp="1599884943147" />
+    <state width="1358" height="250" key="GridCell.Tab.2.right" timestamp="1599884943147">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.2.right/0.23.1440.829@0.23.1440.829" timestamp="1599884943147" />
+    <state x="208" y="23" width="1024" height="829" key="SettingsEditor" timestamp="1599872642242">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="208" y="23" width="1024" height="829" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1599872642242" />
+    <state x="257" y="180" width="925" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599873089395">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="257" y="180" width="925" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.829@0.23.1440.829" timestamp="1599873089395" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/IntDList/BuggyIntDList.java</url>
+          <line>31</line>
+          <properties class="BuggyIntDList" method="sortedMerge">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IntDList/BuggyIntDList.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+When inserting 100,000 strings into the InsertRandomSpeedTest, the ULLMap is unable to even run it, while the BSTMap and TreeMap
+are relatively the same speed. However, when inserting 100,000 strings into the InsertOrderSpeedTest, both the ULLMap and BSTMap
+are unable to run, while the TreeMap is stll very quick, and the HashMap is close to 0.
